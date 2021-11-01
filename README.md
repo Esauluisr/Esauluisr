@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋,  I'm Esau Luis rosario </h1>
 
+<a hre>
 <h3 > - 🔭 About me ... </h3>
 <p> Soy estudiante de la licenciatura de ciencias de la universidad autonoma benito juerez de oxaca UABJO </p> 
 
@@ -9,7 +10,7 @@
 
 <h3> - 📕 I am currently learning..</h3>
 
-<h3 > - 💬 some technologies that I use..</h3>
+<h3 > - 💬 Some technologies that I use..</h3>
 <p align="left">
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
