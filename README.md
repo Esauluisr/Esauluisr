@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,  I'm Esau Luis rosario </h1>
 
-<h3 > - 🔭 About me ... </h3>
+<h1 > - 🔭 About me ... </h1>
 <p> Soy estudiante de la licenciatura de ciencias de la universidad autonoma benito juerez de oxaca UABJO </p> 
 
 
