@@ -15,7 +15,7 @@
 </p> 
 
 <h3>- 👨‍💻 I'm currently studying..</h3>
-<p> Soy estudiante de la licenciatura de computacion en  universidad autonoma benito juearez de oaxaca UABJO </p> 
+<p> Soy estudiante de la licenciatura de computacion en la universidad autonoma benito juearez de oaxaca UABJO </p> 
 
 <h3> - 📕 I am currently learning..</h3>
 <p> Estoy aprendiendo typescript ,
