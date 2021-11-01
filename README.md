@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋,  I'm Esau Luis Rosario 👨‍💻 </h1>
 
-
 ![hello world](https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png)
 
 </h2>
@@ -10,7 +9,8 @@
 <h3 > - 🔭 About me ... </h3>
 <p> Soy de mexico - Oaxaca,
     Me gusta aprender cosas nuevas,
-    Me agrada la programacion web
+    Me agrada la programacion web,
+    Me llama la atencion la seguridad informatica.
 </p> 
 
 <h3>- 👨‍💻 I'm currently studying..</h3>
@@ -45,6 +45,7 @@ const thai = {
   Nombre: "Esau luis rosario",
   code: [Javascript, Typescript, HTML, CSS ],
   Editores de codigo utlizados : [Visual studio code ],
-  Mi logros: ["Mi portafolio", "formulario web"],
+  Mis logros: ["Mi portafolio", "formulario web"],
 }
 ```
+
