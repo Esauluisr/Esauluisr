@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋,  I'm Esau Luis Rosario 👨‍💻 </h1>
 
-
-
 ![hello world](https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png)
 
 </h2>
@@ -34,9 +32,9 @@
 
 <h3> - 📫 Connect with me..</h3>
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/itsVivEKagent)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vivek.agent47/)
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/vivek.chauhan.942145)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">]()
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]()
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">]()
 
 
 <h3>- 👨‍💻 Mis logros..</h3>
@@ -45,5 +43,4 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Web&theme=cobalt)](https://github.com/Itsbeenalongday/Web)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Machine-Learning&theme=great-gatsby)](https://github.com/Itsbeenalongday/Machine-Learning)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=System&theme=blue-green)](https://github.com/Itsbeenalongday/System)
-
 
