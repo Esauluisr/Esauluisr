@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋,  I'm Esau Luis rosario </h1>
+<h1 align="center">Hi 👋,  I'm Esau Luis Rosario 👨‍💻 </h1>
 <p>
   <img src="https://raw.githubusercontent.com/Vivekagent47/Vivekagent47/master/hello.svg">
 </p>
+</h2>
 
+<hr/>
 <a hre>
 <h3 > - 🔭 About me ... </h3>
 <p> Soy de mexico - Oaxaca,
