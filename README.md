@@ -5,13 +5,19 @@
 
 <a hre>
 <h3 > - 🔭 About me ... </h3>
-<p> Soy estudiante de la licenciatura de ciencias de la universidad autonoma benito juerez de oxaca UABJO </p> 
+<p> Soy de mexico - Oaxaca,
+    Me gusta apreneder cosas nuevas,
+    Me agrada la programacion web
+</p> 
 
 <h3>- 👨‍💻 I'm currently studying..</h3>
-<p> Soy estudiante de la licenciatura de ciencias de la universidad autonoma benito juerez de oxaca UABJO </p> 
-
+<p> Soy estudiante de la licenciatura de computacion en  universidad autonoma benito juearez de oaxaca UABJO </p> 
 
 <h3> - 📕 I am currently learning..</h3>
+<p> Estoy aprendiendo typescript ,
+  Estoy aprendiendo seguridad informatica 
+</p> 
+
 
 <h3 > - 💬 Some technologies that I use..</h3>
 <div display="flex">
