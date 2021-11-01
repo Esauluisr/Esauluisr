@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋,  I'm Esau Luis Rosario 👨‍💻 </h1>
 
-![hello world](https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png)
+
+![banner](https://user-images.githubusercontent.com/73414796/139736113-dbdea9ba-9e27-44c0-94fb-48020903ee96.png)
 
 </h2>
 
@@ -48,4 +49,3 @@ const thai = {
   Mis logros: ["Mi portafolio", "formulario web"],
 }
 ```
-
