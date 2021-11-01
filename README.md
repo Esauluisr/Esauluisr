@@ -6,7 +6,7 @@
 <a hre>
 <h3 > - 🔭 About me ... </h3>
 <p> Soy de mexico - Oaxaca,
-    Me gusta apreneder cosas nuevas,
+    Me gusta aprender cosas nuevas,
     Me agrada la programacion web
 </p> 
 
