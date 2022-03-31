@@ -48,8 +48,8 @@ const thai = {
   Editores de codigo utlizados : [Visual studio code ],
   Mis logros: ["Mi portafolio", "formulario web"],
 }
-```
-<h3> - 📕 Encuentrame en la web </h3>@gmail.com
 
+<h3> - 📕 Encuentrame en la web </h3>
+    
 - Correo: esauluis117@gmail.com
  
